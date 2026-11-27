@@ -3,7 +3,7 @@
 Hello, my name is Henrique Abreu, I'm a brazilian 🇧🇷 software engineer, a student at [UNINASSAU]. I really like developing softwares and solving problems.
 
 
-[![STARS](https://custom-icon-badges.demolab.com/github/stars/abreuhenrique?color=001866&label=STARS&logo=star&logoColor=001866&style=for-the-badge&labelColor=001866)](https://github.com/matheusaudibert?tab=repositories&sort=stargazers)
+[![STARS](https://custom-icon-badges.demolab.com/github/stars/abreuhenrique?color=001866&label=STARS&logo=star&logoColor=001866&style=for-the-badge&labelColor=001866)](https://github.com/abreuhenrique?tab=repositories&sort=stargazers)
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abreuhenrique&show_icons=true&theme=tokyonight&count_private=true" />
